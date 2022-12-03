@@ -1,4 +1,5 @@
 # Currículo
+![avatar](/avatar.png)
 <div>
   <span>Olá, meu nome é <b>Lucas Neves</b> tenho 21 anos e atualmente moro em Lavras aonde faço faculdade de <i>Ciência da Computação</i> na <b><i>UFLA</i></b>. Sempre     motivado e disposto aprender novos conceitos e linguagens.</span>
 </div>
